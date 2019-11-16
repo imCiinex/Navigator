@@ -1,0 +1,8 @@
+name: Navigator
+version: 1.0
+author: imCiinex
+main: de.imciinex.navigator.Navigator
+
+commands:
+
+  setloc:
